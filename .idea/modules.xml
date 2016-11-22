@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro-algo-ex.iml" filepath="$PROJECT_DIR$/.idea/modules/intro-algo-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro-algo-ex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/intro-algo-ex_main.iml" group="intro-algo-ex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro-algo-ex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/intro-algo-ex_test.iml" group="intro-algo-ex" />
+    </modules>
+  </component>
+</project>
