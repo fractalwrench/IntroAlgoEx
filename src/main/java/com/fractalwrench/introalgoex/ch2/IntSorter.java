@@ -1,6 +1,6 @@
 package com.fractalwrench.introalgoex.ch2;
 
-public interface IntSorter {
+interface IntSorter {
 
     /**
      * Sorts an array of integers by their natural order
