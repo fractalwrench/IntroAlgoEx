@@ -4,10 +4,13 @@ import java.util.Comparator;
 
 /**
  * Insertion Sort iterates through elements from left-to-right. It compares each element with the previously sorted
- * subarray, and inserts it at the correct point/
+ * subarray, and inserts it at the correct point.
+ *
+ * Runs in O(n^2) time.
  */
 class InsertionSorter implements IntSorter {
 
+    @Override
     public void sort(int[] values) {
 
         for (int j = 1; j < values.length; j++) {
